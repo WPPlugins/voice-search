@@ -1,0 +1,17 @@
+{
+  "name": "swissspidy/voice-search",
+  "description": "Allows visitors to search the site using their voice.",
+  "version": "1.1.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "authors": [
+	{
+	  "name": "Pascal Birchler",
+	  "email": "support@spinpress.com",
+	  "homepage": "https://pascalbirchler.com",
+	  "role": "Developer"
+	}
+  ],
+  "require": {
+  }
+}
